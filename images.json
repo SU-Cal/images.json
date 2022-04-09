@@ -3,25 +3,30 @@
         "Name":"On The Beach",
         "Description":"An image of a man walking along the rocks at a beach.",
         "Location" : "images/IMG_01.jpg"
+        "Time" : 10
     },
     {
         "Name":"Nova Scotia Sunset",
         "Description":"A sunset with thousands of bugs buzzing about",
         "Location" : "images/IMG_02.jpg"
+        "Time" : 10
     },
     {
         "Name":"Rocky Mountain High",
         "Description":"A mountain shot from Banff National Park",
         "Location" : "images/IMG_03.jpg"
+        "Time" : 10
     },
     {
         "Name":"Marshland Breeze",
         "Description":"A shot of the marsh near Conrad's Beach Nova Scotia",
         "Location" : "images/IMG_04.jpg"
+        "Time" : 10
     },
     {
         "Name":"Blood Moon",
         "Description":"A blood moon at Conrad's Beach Nova Scotia",
         "Location" : "images/IMG_05.jpg"
+        "Time" : 10
     }
 ]
